@@ -36,7 +36,7 @@ const Navbar = () => {
     return (
         <nav>
             <div onClick={() => setOpen
-                (!open)} className='md:hidden'>
+                (!open)} className='md:hidden px-4'>
                 <span>
                     {
                         open === true ? <XMarkIcon className="h-6 w-6 text-purple-500" /> : <Bars3Icon className="h-6 w-6 text-purple-500" />

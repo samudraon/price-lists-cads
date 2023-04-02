@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": 50,
+        "description": "Access to gym equipment and group classes.",
+        "features": [
+            "Gym equipment",
+            "Group classes"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard",
+        "price": 75,
+        "description": "Access to gym equipment, group classes, and personal training.",
+        "features": [
+            "Gym equipment",
+            "Group classes",
+            "1 personal training session per week"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "price": 100,
+        "description": "Access to gym equipment, group classes, and unlimited personal training.",
+        "features": [
+            "Gym equipment",
+            "Group classes",
+            "Unlimited personal training"
+        ]
+    }
+]
